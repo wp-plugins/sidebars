@@ -3,7 +3,7 @@ Contributors: DanielNexterous
 Tags: sidebars, control, widgets
 Requires at least: 2.5
 Tested up to: 2.5.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Create and apply sidebars to certain pages / posts.
 
@@ -35,3 +35,8 @@ No. As long as you replace `dynamic_sidebar` with `go_sidebar` it will work fine
 
 1. The manage sidebars panel where you can delete or edit a sidebar.
 2. The add sidebars panel where you can add a new sidebar.
+
+== Versions ==
+
+1. Version 1.0 - Initial Release
+1. Version 1.1 - Passed slug to dynamic_sidebar at end of control mechanism (lost in original changes)

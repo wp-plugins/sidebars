@@ -299,5 +299,6 @@ function go_sidebar(){
 			$slug = $result['slug'];
 		}
 	}
+	dynamic_sidebar($slug);
 }
 ?>
